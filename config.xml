@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+   xmlns:gap = "http://phonegap.com/ns/1.0"
+   id        = "sarutech.silozihymn"
+   version    = "1.0.0">
+	
+	<name>SILOZI SDA HYMN BOOK</name>
+
+    <description>
+        The Seventh-day Adventist SILOZI Hymnal is the official hymnal of the Seventh-day Adventist Church and is widely used by  the Zambian SDA church west Zambia
+    </description>
+
+    <author email="stemliimba@yahoo.com">
+        Stephens Mukwasiyo
+    </author>
+	
+   <icon src="icon.png" />
+</widget>
