@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   id        = "sarutech.silozihymn"
+   id        = "com.sarutech.silozihymn"
    version    = "1.0.0">
 	
 	<name>SILOZI SDA HYMN BOOK</name>
